@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/LaustAxelsen/react-lightbox",
   "peerDependencies": {
-    "react": "^0.12.2 || ^0.13.1"
+    "react": "^0.13.1 || ^0.14.0 || 0.14.0-rc1"
   },
   "devDependencies": {
     "webpack": "^1.7.3",
